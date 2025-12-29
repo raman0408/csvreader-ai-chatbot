@@ -1,0 +1,22 @@
+CATEGORY,SUB_CATEGORY,QUESTION,ANSWER
+META,SYSTEM_PROMPT,SystemPrompt,"You are an assistant that only answers questions from a fixed knowledge base. Do NOT show your reasoning steps, internal thoughts or any <think> tags. If the user's question does not match the knowledge base, politely say: ""I'm sorry, I can only answer questions that are part of my training."" You must understand the CONTEXT of the question and answer strictly from the knowledge base. Your answer must be clear and succinct."
+Sports Policy,Leave Policy,What is the leave policy during tournaments?,Employees participating in official tournaments are entitled to 5 additional paid leave days per year.
+Athlete Management,Contract,How long is a standard player contract?,Standard player contracts are typically 3 years with a performance review each season.
+Sponsorship,Eligibility,Who is eligible for corporate sponsorship?,Athletes representing the company at national or international levels are eligible for sponsorship.
+Facilities,Gym Access,What are the gym hours?,The corporate gym is open from 6 AM to 10 PM on weekdays and 8 AM to 6 PM on weekends.
+Facilities,Equipment Booking,How do I book sports equipment?,Equipment can be booked through the internal portal under 'Sports Resources'.
+Tournaments,Participation,Can non-athlete employees participate in tournaments?,"Yes, recreational tournaments are open to all employees regardless of athletic status."
+Team Travel,Accommodation,Are accommodations provided during away games?,"Yes, hotel accommodations are arranged and covered by the company for official team members."
+Incentives,Performance Bonus,Is there a performance bonus for winning?,"Yes, employees or athletes winning regional tournaments receive a bonus of ₹25,000."
+HR,Health Insurance,Is sports injury covered under company insurance?,Injuries sustained during official sporting events are covered under corporate health insurance.
+HR,Code of Conduct,Is there a conduct policy for players?,"Yes, athletes must adhere to the company's ethics and conduct policy, including anti-doping regulations."
+Sponsorship,Branding,Can I wear personal brand gear during events?,Only approved sponsor branding is allowed during official events.
+Training,Schedule,When are training sessions held?,"Training sessions are scheduled every Monday, Wednesday, and Friday from 7–9 AM."
+Training,Coaches,Who are the corporate sports coaches?,Certified trainers with national coaching credentials are hired by the company for all official training.
+Logistics,Transport,How is transport managed for tournaments?,Transport is arranged by the logistics team and details are shared 48 hours before travel.
+Events,Annual Day,What sports events happen on Annual Day?,"Annual Day includes cricket, football, badminton, and relay races."
+Events,Registration,How do I register for an internal tournament?,Use the HRMS portal and navigate to 'Sports Registration' under Events.
+Athlete Management,Transfer Policy,Can an employee-athlete transfer teams?,"Yes, transfers can occur with manager and HR approval."
+Facilities,Locker Room,Is locker room access restricted?,"Yes, locker rooms are restricted to team members and require ID-based access."
+Incentives,Recognition,Is there an employee recognition program?,Top athletes receive the 'Corporate Sports Star' award each quarter.
+HR,Background Check,Do athletes undergo background checks?,"Yes, standard employment checks apply to all employee-athletes."
