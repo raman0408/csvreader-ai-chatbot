@@ -1,0 +1,16 @@
+# Maven build
+target/
+
+# Eclipse IDE files
+*.classpath
+*.project
+*.settings/
+
+# IntelliJ IDEA (if used)
+.idea/
+*.iml
+
+# OS / Temp files
+.DS_Store
+Thumbs.db
+*.log
